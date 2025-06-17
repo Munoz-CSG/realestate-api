@@ -1,0 +1,15 @@
+# Node.js essentials
+node_modules/
+.env
+npm-debug.log*
+
+# Testing
+coverage/
+.nyc_output
+
+# Logs
+*.log
+
+# Editor config
+.vscode/
+.history/
